@@ -40,6 +40,9 @@ Total size = Total Pages * size of one page
 5 x 100^15
 5 PB of data storage is needed for one run
 
+This data can be zipped for better storage could go around 3 PB 
+
+
 
 
 
